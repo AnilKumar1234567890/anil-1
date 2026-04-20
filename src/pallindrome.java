@@ -14,7 +14,7 @@ public class pallindrome {
         if(temp == rev) {
             System.out.println("palllindrome");
         }else
-        System.out.println("not pallindrome");
+            System.out.println("not pallindrome");
     }
 }
 
